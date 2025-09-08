@@ -5,14 +5,14 @@ export default function LogoFiligran() {
     <div
       style={{
         position: 'absolute',
-        top: '200px',
+        top: '55%',
         left: '50%',
         transform: 'translateX(-50%)',
-        opacity: 0.1,
+        opacity: 0.2,
         zIndex: 0,
       }}
     >
-      <img src={companyLogo} alt={companyName} />
+      <img style={{ width: '100px' }} src={companyLogo} alt={companyName} />
     </div>
   );
 }

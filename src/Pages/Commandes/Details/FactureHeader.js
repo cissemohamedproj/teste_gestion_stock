@@ -28,15 +28,15 @@ export default function FactureHeader() {
       <div
         style={{
           position: 'absolute',
-          top: '40px',
-          left: '-5px',
+          top: '80px',
+          left: '40px',
         }}
         className='d-flex flex-column gap-3 justify-content-center align-item-center'
       >
         <CardImg
           src={companyLogo}
           style={{
-            width: '160px',
+            width: '60px',
           }}
         />
       </div>
