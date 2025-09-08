@@ -13,9 +13,9 @@ import outil_11 from '../../assets/images/outil (11).png';
 import outil_12 from '../../assets/images/outil (12).png';
 import outil_13 from '../../assets/images/outil (13).png';
 
-const companyName = 'Quincaillerie Général Groupe Siby';
+const companyName = 'Cissé Multi-Services';
 
-const companyLittleName = 'Groupe Siby';
+const companyLittleName = 'Cissé Multi-Services';
 const companyServices1 =
   'Vente des: Matelats - Carreaux - Couches de Bébé etc...';
 const companyServices2 = 'Location des Voitures et Appartements meublés';
@@ -23,9 +23,9 @@ const companyServices2 = 'Location des Voitures et Appartements meublés';
 const companyOwnerName = 'Commerce Général';
 
 const companyAdresse =
-  "Kabala sur la route d'université 50m avant de passer le pont";
+  "Kabala sur la route d'université à 50m de Station Petro BAMA";
 
-const companyTel = '+223 92-11-99-05 / 76-15-32-35 / 77-20-61-24 / 76-15-32-35';
+const companyTel = '+223 72-11-56-99 / 99-43-09-51';
 
 export {
   companyLogo,

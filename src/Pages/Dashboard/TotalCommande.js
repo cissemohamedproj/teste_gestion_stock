@@ -118,7 +118,7 @@ const TotalCommandeToDelivre = () => {
           <CardImg
             src={carImg}
             alt='Commandes'
-            style={{ height: '110px', objectFit: 'cover' }}
+            style={{ height: '110px', objectFit: 'contain' }}
           />
           <CardBody>
             <CardTitle className='text-center'>
