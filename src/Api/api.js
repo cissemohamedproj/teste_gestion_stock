@@ -2,8 +2,10 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: process.env.REACT_APP_API_URL || 'http://localhost:5000/api',
-  // 'https://backend-quincaillerie-groupe-siby.onrender.com/api',
+  baseURL:
+    process.env.REACT_APP_API_URL ||
+    'https://backend-teste-gestion-stock.onrender.com/api',
+  // 'http://localhost:5000/api',
 
   headers: {
     'Content-Type': 'application/json',
